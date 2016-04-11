@@ -1,2 +1,2 @@
-permalink: /:title
+permalink: /blog/:year/:month/:day/:title
 name: Wei
